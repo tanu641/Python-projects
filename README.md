@@ -1,2 +1,1 @@
-# Python-first-project
-My first project of python
+# Python project
